@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobileAppTest</string>
+
+    <string name="registration_loading">Loading</string>
+    <string name="registration_retry">Retry</string>
+    <string name="registration_send">Send</string>
+    <string name="registration_valid_fields">Valid Fields:</string>
+</resources>
